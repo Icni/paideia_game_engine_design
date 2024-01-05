@@ -1,5 +1,7 @@
 # Installation
 
+First, you need to figure out if your computer is a Linux, Mac, Windows, or something else entirely.
+
 ## Installing Rust
 
 ### Mac / Linux
