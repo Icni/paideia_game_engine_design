@@ -43,3 +43,7 @@ Download from [this link](https://buildbot.libsdl.org/sdl-builds/sdl-visualstudi
 ## Installing Visual Studio Code
 
 Just use [this link](https://code.visualstudio.com/download).
+
+## VSCode Extensions
+
+You only really to install `rust-analyzer`. In VSCode, go to the little grid-shaped icon for the Extension Manager and search up `rust-analyzer`, then click `install`.
