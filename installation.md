@@ -18,19 +18,13 @@ Use one of the installers from [this website](https://forge.rust-lang.org/infra/
 
 ### Linux
 
-If you want to use Homebrew (a package manager), type
+On most Linux platforms, you can just use this to install SDL (if it's not installed already):
 
 ```sh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo apt-get install libsdl2-dev
 ```
 
-into your terminal and then run
-
-```sh
-brew install sdl2
-```
-
-If you already have a package management tool you like, stick with that. Otherwise, go to [this link](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5).
+Otherwise, go to [this link](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5) and download from there.
 
 ### Mac
 
@@ -41,3 +35,7 @@ Then run:
 ```sh
 brew install sdl2
 ```
+
+### Windows
+
+Download from [this link](https://buildbot.libsdl.org/sdl-builds/sdl-visualstudio/?C=M;O=D).
