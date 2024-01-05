@@ -1,6 +1,7 @@
 # Installation
 
-First, you need to figure out if your computer is a Linux, Mac, Windows, or something else entirely.
+First, you need to figure out if your computer is a Linux, Mac, Windows, or
+something else entirely.
 
 ## Installing Rust
 
@@ -20,13 +21,15 @@ Use one of the installers from [this website](https://forge.rust-lang.org/infra/
 
 ### Linux
 
-On most Linux platforms, you can just use this to install SDL (if it's not installed already):
+On most Linux platforms, you can just use this to install SDL (if it's not
+installed already):
 
 ```sh
 sudo apt-get install libsdl2-dev
 ```
 
-Otherwise, go to [this link](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5) and download from there.
+Otherwise, go to [this link](https://github.com/libsdl-org/SDL/releases/tag/release-2.28.5)
+and download from there.
 
 ### Mac
 
@@ -48,4 +51,5 @@ Just use [this link](https://code.visualstudio.com/download).
 
 ## VSCode Extensions
 
-You only really to install `rust-analyzer`. In VSCode, go to the little grid-shaped icon for the Extension Manager and search up `rust-analyzer`, then click `install`.
+You only really to install `rust-analyzer`. In VSCode, go to the little grid-
+shaped icon for the Extension Manager and search up `rust-analyzer`, then click `install`.
