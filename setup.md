@@ -43,7 +43,7 @@ brew install sdl2
 
 ### Windows
 
-Download from [this link](https://buildbot.libsdl.org/sdl-builds/sdl-visualstudio/?C=M;O=D).
+Look at [this link](https://github.com/libsdl-org/SDL/blob/main/INSTALL.md).
 
 ## Installing Visual Studio Code
 
