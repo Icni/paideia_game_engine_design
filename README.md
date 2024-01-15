@@ -19,3 +19,5 @@ Credit is nice but not required.
 ["The Book"](https://doc.rust-lang.org/book/) - Useful resource for Rust language concepts.
 
 [SDL Wiki](https://wiki.libsdl.org/SDL2/FrontPage) - Info on the SDL library.
+
+[Lazyfoo Tutorials](https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php) - SDL Tutorials (C++).
