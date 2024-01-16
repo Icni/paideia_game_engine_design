@@ -20,4 +20,4 @@ Credit is nice but not required.
 
 [SDL Wiki](https://wiki.libsdl.org/SDL2/FrontPage) - Info on the SDL library.
 
-[Lazyfoo Tutorials](https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php) - SDL Tutorials (C++).
+[Lazyfoo Tutorials](https://lazyfoo.net/tutorials/SDL) - SDL Tutorials (C++).

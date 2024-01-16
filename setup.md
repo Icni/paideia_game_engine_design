@@ -43,7 +43,11 @@ brew install sdl2
 
 ### Windows
 
-Look at [this link](https://github.com/libsdl-org/SDL/blob/main/INSTALL.md).
+Look at [the SDL page](https://github.com/libsdl-org/SDL/blob/main/INSTALL.md).
+
+[Lazyfoo Tutorials](https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php) also has some useful tips.
+
+You will have to also follow the instructions from [the Rust SDL crate](https://github.com/Rust-SDL2/rust-sdl2#windows-msvc)
 
 ## Installing Visual Studio Code
 
