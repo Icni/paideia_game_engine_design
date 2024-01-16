@@ -1,0 +1,32 @@
+[package]
+name = "brigade"
+edition = "2021"
+version = "0.1.0"
+
+[dependencies]
+# Error handling
+anyhow = "1.0.79"
+# Math
+nalgebra = "0.32.3"
+
+# Graphics
+[dependencies.sdl2]
+version = "0.36.0"
+features = ["image", "unsafe_textures"]
+
+# ECS
+[dependencies.legion]
+version = "0.4.0"
+git = "https://github.com/amethyst/legion"
+default_features = false
+features = [
+    "codegen",
+    "crossbeam-events",
+    "parallel",
+    "reexport"
+]
+
+[workspace]
+members = [
+    "tests/*"
+]
