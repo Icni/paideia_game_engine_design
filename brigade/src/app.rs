@@ -1,5 +1,4 @@
 use nalgebra::Vector2;
-use sdl2::image;
 use legion::{World, Resources, Schedule};
 
 pub struct App {

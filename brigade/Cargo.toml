@@ -12,7 +12,7 @@ nalgebra = "0.32.3"
 # Graphics
 [dependencies.sdl2]
 version = "0.36.0"
-features = ["image", "unsafe_textures"]
+features = ["unsafe_textures"]
 
 # ECS
 [dependencies.legion]
