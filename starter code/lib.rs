@@ -1,5 +1,6 @@
 // Put your module declarations here...
 pub mod app;
+pub mod assets;
 pub mod rect;
 
 pub mod ecs {
