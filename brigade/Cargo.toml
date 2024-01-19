@@ -8,6 +8,8 @@ version = "0.1.0"
 anyhow = "1.0.79"
 # Math
 nalgebra = "0.32.3"
+# Image loading
+image = "0.24.8"
 
 # Graphics
 [dependencies.sdl2]
